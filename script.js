@@ -9,7 +9,7 @@
    Change this single value whenever a new build is published —
    every "Download APK" button/link on the site reads from here.
 ----------------------------------------------------------------*/
-const VIVY_APK_URL = "https://vivyhub.com/downloads/vivy-latest.apk";
+const VIVY_APK_URL = "https://github.com/gakachi95-gif/Vivylive-/releases/latest/download/vivy.apk";
 
 document.addEventListener("DOMContentLoaded", () => {
   wireApkLinks();
